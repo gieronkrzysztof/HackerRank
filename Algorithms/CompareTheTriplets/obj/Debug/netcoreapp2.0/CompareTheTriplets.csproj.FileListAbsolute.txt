@@ -1,0 +1,10 @@
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.deps.json
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.runtimeconfig.json
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.runtimeconfig.dev.json
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.dll
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\bin\Debug\netcoreapp2.0\CompareTheTriplets.pdb
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.AssemblyInfoInputs.cache
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.AssemblyInfo.cs
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.dll
+C:\Users\krzysiek\git\HackerRank\Algorithms\CompareTheTriplets\obj\Debug\netcoreapp2.0\CompareTheTriplets.pdb
